@@ -55,3 +55,29 @@
 # else:
 #     down_payment = 0.2 * price
 # print(f'Down payment: ${down_payment}')
+
+# has_high_income = True
+# has_good_credit = True
+# has_criminal_record = False
+# if has_high_income and has_good_credit:
+#     print("Eligible for loan")
+# if has_high_income or has_good_credit:
+#     print("Eligible for loan")
+# if has_good_credit and not has_criminal_record:
+#     print("Eligible for loan")
+
+# temperature = 35
+# if temperature > 30:
+#     print("It;s a hot day")
+# else:
+#     print("it's not a hot day")
+#     print("Enjoy your day")
+
+# name = "mannnnnnnnnnnnn"
+# if len(name) < 3:
+#     print("Name must be atleast 3 characters")
+# elif len(name) > 50:
+#     print("Name can be a maximum of 50 characters")
+# else:
+#     print ("Name Looks good!")
+
